@@ -18,9 +18,9 @@ Trebons has been developed in HTML,CSS,JS and PHP
 - Screenshots
      - Login
           - Login promt
-          <img src="/screenshots/login_promt.png" height="96" width="61" />
+          <img src="/screenshots/login_promt.png" height="576" width="366" />
           - Once logged in
-          <img src="/screenshots/logged_in.png" height="96" width="61" />
+          <img src="/screenshots/logged_in.png" height="576" width="366" />
      - Reserve a trip
           - Confirmation of the reservation
           - Question that asks for Calendar
