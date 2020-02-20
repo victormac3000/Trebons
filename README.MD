@@ -1,14 +1,10 @@
-<h1>TREBONS</h1>
-<p>
-     Trebons is a queue management web based application created for parents to save time when managing turns to take their kids to basketball practice.
-</p>
-<p>
-     Trebons has been developed in HTML,CSS,JS and PHP
-</p>
+# TREBONS
 
-<h2>FEATURES</h2>
+Trebons is a queue management web based application created for parents to save time when managing turns to take their kids to basketball practice.
 
-<p>
+Trebons has been developed in HTML,CSS,JS and PHP
+
+## FEATURES
 
 
 - The users can:
@@ -35,4 +31,3 @@
      - Change username,email or password
           - Show actual values
           - Once we change values
-</p>
