@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logs>
+    <dia fecha="2019-10-17">
+        <conductores>
+            <conductor id="2"/>
+            <conductor id="1"/>
+            <conductor id="6"/>
+            <conductor id="5"/>
+        </conductores>
+    </dia>
+    <dia fecha="2019-10-18">
+        <conductores>
+            <conductor id="2"/>
+            <conductor id="4"/>
+            <conductor id="8"/>
+            <conductor id="5"/>
+        </conductores>
+    </dia>
+    <dia fecha="2019-10-21">
+        <conductores>
+            <conductor id="8"/>
+            <conductor id="4"/>
+            <conductor id="8"/>
+            <conductor id="1"/>
+        </conductores>
+    </dia>
+    <dia fecha="2019-10-24">
+        <conductores>
+            <conductor id="2"/>
+            <conductor id="1"/>
+            <conductor id="5"/>
+            <conductor id="6"/>
+        </conductores>
+    </dia>
+    <dia fecha="2019-10-25">
+        <conductores>
+            <conductor id="2"/>
+            <conductor id="4"/>
+            <conductor id="5"/>
+            <conductor id="6"/>
+        </conductores>
+    </dia>
+    <dia fecha="2019-10-28">
+        <conductores>
+            <conductor id="8"/>
+            <conductor id="4"/>
+            <conductor id="8"/>
+            <conductor id="1"/>
+        </conductores>
+    </dia>
+    <dia fecha="2019-10-31">
+        <conductores>
+            <conductor id="6"/>
+            <conductor id="2"/>
+            <conductor id="6"/>
+            <conductor id="5"/>
+        </conductores>
+    </dia>
+    <dia fecha="2019-11-01">
+        <conductores>
+            <conductor id="2"/>
+            <conductor id="4"/>
+            <conductor id="7"/>
+            <conductor id="6"/>
+        </conductores>
+    </dia>
+    <dia fecha="2019-11-04">
+        <conductores>
+            <conductor id="8"/>
+            <conductor id="4"/>
+            <conductor id="8"/>
+            <conductor id="1"/>
+        </conductores>
+    </dia>
+    <dia fecha="2019-11-07">
+        <conductores>
+            <conductor id="2"/>
+            <conductor id="1"/>
+            <conductor id="5"/>
+            <conductor id="6"/>
+        </conductores>
+    </dia>
+<dia fecha="2019-11-08"><conductores><conductor id="2"/><conductor id="4"/><conductor id="5"/><conductor id="6"/></conductores></dia><dia fecha="2019-11-11"><conductores><conductor id="8"/><conductor id="4"/><conductor id="8"/><conductor id="6"/></conductores></dia><dia fecha="2019-11-14"><conductores><conductor id="2"/><conductor id="1"/><conductor id="5"/><conductor id="1"/></conductores></dia><dia fecha="2019-11-15"><conductores><conductor id="2"/><conductor id="4"/><conductor id="5"/><conductor id="6"/></conductores></dia><dia fecha="2019-11-18"><conductores><conductor id="8"/><conductor id="4"/><conductor id="8"/><conductor id="1"/></conductores></dia><dia fecha="2019-11-21"><conductores><conductor id="1"/><conductor id="2"/><conductor id="5"/><conductor id="6"/></conductores></dia><dia fecha="2019-11-22"><conductores><conductor id="2"/><conductor id="4"/><conductor id="5"/><conductor id="6"/></conductores></dia><dia fecha="2019-11-25"><conductores><conductor id="8"/><conductor id="4"/><conductor id="8"/><conductor id="1"/></conductores></dia><dia fecha="2019-11-28"><conductores><conductor id="2"/><conductor id="1"/><conductor id="5"/><conductor id="6"/></conductores></dia><dia fecha="2019-11-29"><conductores><conductor id="8"/><conductor id="2"/><conductor id="5"/><conductor id="6"/></conductores></dia><dia fecha="2019-12-02"><conductores><conductor id="8"/><conductor id="4"/><conductor id="8"/><conductor id="5"/></conductores></dia><dia fecha="2019-12-05"><conductores><conductor id="2"/><conductor id="6"/><conductor id="8"/><conductor id="6"/></conductores></dia><dia fecha="2019-12-06"><conductores><conductor id="2"/><conductor id="4"/><conductor id="7"/><conductor id="6"/></conductores></dia><dia fecha="2019-12-09"><conductores><conductor id="8"/><conductor id="4"/><conductor id="8"/><conductor id="7"/></conductores></dia><dia fecha="2019-12-12"><conductores><conductor id="1"/><conductor id="5"/><conductor id="5"/><conductor id="6"/></conductores></dia><dia fecha="2019-12-13"><conductores><conductor id="2"/><conductor id="4"/><conductor id="2"/><conductor id="6"/></conductores></dia><dia fecha="2019-12-16"><conductores><conductor id="8"/><conductor id="4"/><conductor id="8"/><conductor id="1"/></conductores></dia><dia fecha="2019-12-19"><conductores><conductor id="2"/><conductor id="1"/><conductor id="5"/><conductor id="6"/></conductores></dia><dia fecha="2019-12-20"><conductores><conductor id="2"/><conductor id="4"/><conductor id="5"/><conductor id="6"/></conductores></dia><dia fecha="2019-12-23"><conductores><conductor id="8"/><conductor id="4"/><conductor id="8"/><conductor id="6"/></conductores></dia><dia fecha="2019-12-26"><conductores><conductor id="8"/><conductor id="7"/><conductor id="7"/><conductor id="6"/></conductores></dia><dia fecha="2019-12-27"><conductores><conductor id="7"/><conductor id="4"/><conductor id="7"/><conductor id="6"/></conductores></dia><dia fecha="2019-12-30"><conductores><conductor id="2"/><conductor id="4"/><conductor id="1"/><conductor id="7"/></conductores></dia></logs>
