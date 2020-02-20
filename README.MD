@@ -9,15 +9,10 @@
 <h2>FEATURES</h2>
 
 <p>
-     <ul>
-          <li>The users can:</li>
-          <li>
-               <ul>
-                    <li>Assign a day when they can drive</li>
-                    <li>Delete a day because they can't drive</li>
-                    <li>View a graph of the number of trips per user</li>
-                    <li>Change their username,email and password</li>
-               </ul>
-          </li>
-     </ul>
+          - The users can:
+               * Assign a day when they can drive
+               * Delete a day because they can't drive<
+               * View a graph of the number of trips per user
+               * Change their username,email and password
+
 </p>
