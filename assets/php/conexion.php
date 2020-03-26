@@ -12,10 +12,10 @@ if ($ip == '::1') {
      $password = 'toor';
      $basededatos = 'Trebons';
 } else {
-     $servidor = 'sql306.epizy.com';
-     $usuario = 'epiz_24587433';
-     $password = '1BRvgwviVetv2F';
-     $basededatos = 'epiz_24587433_trebons';
+     $servidor = '#####';
+     $usuario = '######';
+     $password = '######';
+     $basededatos = '#######';
 }
 
 // CONECTAR A LA BASE DE DATOS
